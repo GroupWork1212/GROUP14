@@ -12,7 +12,7 @@ int main()
 
     char opt ; int itm, i;
 
-    cout<<"****************** WELCOME TO GROUP 3 STORE POINT OF SALE ********************\n";
+    cout<<"****************** WELCOME TO GROUP 14 STORE POINT OF SALE ********************\n";
     cout<<"................Product Menu ...............\n";
     cout<<" Press 1. Dettol anti-bacterial = N900.00 ..\n";
     cout<<" Press 2. Megir men's wrist watch  = N7000.00 ..\n";
@@ -91,7 +91,7 @@ int main()
             }
 
     }
-    cout<<"\n******************GROUP 3 STORE CUSTOMER RECEIPT ***************************\n";
+    cout<<"\n******************GROUP 14 STORE CUSTOMER RECEIPT ***************************\n";
     for (int k=0; k<a; k++){
 
         cout<<"\n"<<selitem[k]<<".............."<<price[k]<<"\n";
